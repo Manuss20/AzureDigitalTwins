@@ -73,3 +73,10 @@ az dt role-assignment create --dt-name <your-Azure-Digital-Twins-instance> --ass
 ~~~
 az dt twin query -q "select * from digitaltwins" -n YourtDTname
 ~~~
+
+
+Pending: 
+**Crear manager identity -> sobre el grupo de recuros le das al Azure Digital Twins y de esta forma asignamos la manager identity
+
+
+
